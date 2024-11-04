@@ -12,8 +12,6 @@
 - Search Cowswap (https://swap.cow.fi/#/1/swap/WETH)
 - Convert any ETH or currency to WETH as Swap
 
-![CoWSwapandMOR](https://github.com/user-attachments/assets/f4ca4bba-b41c-41d7-bfa3-f7dab66f2771)
-
 ## Example Purchase
 - Click TWAP
 - Click ok for upgrade
@@ -23,4 +21,4 @@
 - 36 Hrs, 1 min
 - 401 parts
 
-
+![CoWSwapandMOR](https://github.com/user-attachments/assets/f4ca4bba-b41c-41d7-bfa3-f7dab66f2771)
