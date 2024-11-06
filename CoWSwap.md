@@ -1,4 +1,7 @@
-# How to purchase MOR over time
+# How to purchase MOR Over Time
+
+## Video Guide on How to Use CoWSwap
+https://drive.google.com/file/d/1eOgHI0s1IATQn7E683EvAvazVrdPYGvg/view?usp=sharing
 
 ## Set up Gnosis Safe
 - Hardware wallet needs to set up a gnosis safe ((https://safe.global/)
