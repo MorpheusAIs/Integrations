@@ -1,6 +1,6 @@
 # Guide For Listing MOR On Your Exchange
 
-## Listing For Exchanges That Custody With Fireblocks
+## Listing MOR On Exchanges That Custody With Fireblocks
 
 - MOR token is currently supported, but is not yet globally listed on all workspaces.
 - Article on how to add MOR token manually (https://support.fireblocks.io/hc/en-us/articles/5601259928220-Adding-EVM-assets-to-a-workspace#h_01J1CR4JSYVQXXD8PKDYTWGVWN)
